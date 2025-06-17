@@ -10,8 +10,8 @@ int nb_prinact[450];
 int nb_realact[450];
 
 void Menu(){
-char f_films[]="Films.txt";
-char f_pers[]="Personnes.txt";
+char f_films[]="../data/Films.txt";
+char f_pers[]="../data/Personnes.txt";
 int ident;
 int num;
 printf("------------------------------MENU:-----------------------------------------------\n\n");
