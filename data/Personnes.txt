@@ -1,0 +1,18 @@
+-------------------------------les informations de Personne(acteur/realisateur) d'id 11 :-----------------------------
+Identificateur : 11
+Nom : Parker
+Prenom : Petter
+Date de naissance(JJ MM AAAA) :
+->Jour :14
+->Moi :8
+->Annee :1996
+Fonction (acteur /realisateur) : Acteur
+-------------------------------les informations de Personne(acteur/realisateur) d'id 210 :-----------------------------
+Identificateur : 210 
+Nom : Lynch 
+Prenom : David 
+Date de naissance(JJ MM AAAA) : 
+->Jour :12
+->Moi :5
+->Annee :1990
+Fonction (acteur /realisateur) : Realisateur 
