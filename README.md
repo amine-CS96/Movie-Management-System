@@ -39,7 +39,7 @@ Movie-Management-System/
 From the project root directory, compile the code using the following command:
 
 ```bash
-gcc src/main.c src/movie_manager.c -Iinclude -o movie_manager
+gcc src/main.c src/movie_manager.c -o movie_manager
 ```
 
 Alternatively, if you have a Makefile, simply run:
