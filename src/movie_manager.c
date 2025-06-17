@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
-#include"include/movie_manager.h"
+#include"../include/movie_manager.h"
 
 int id_global=0;
 int tab[500];
