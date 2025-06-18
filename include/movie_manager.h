@@ -25,6 +25,7 @@ typedef struct{
     char fonction [50];
 } Personne;
 
+//Protoypes...
 extern void Menu();
 extern void Afficher_Films(char *f_films);
 extern void Afficher_Personnes(char *f_pers);
