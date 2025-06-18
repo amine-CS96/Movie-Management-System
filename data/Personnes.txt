@@ -1,4 +1,4 @@
--------------------------------les informations de Personne(acteur/realisateur) d'id 11 :-----------------------------
+-------------------------------les informations de Personne(acteur/realisateur) d'id 11 :------------------------------
 Identificateur : 11
 Nom : Parker
 Prenom : Petter
